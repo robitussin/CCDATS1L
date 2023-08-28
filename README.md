@@ -7,8 +7,8 @@ Course Outline: https://believed-bongo-319.notion.site/CCDATS1L-c4307320d22c4382
 | Folder Name | Topic |
 | :---         |     :---:      |       
 | week_1   | Introduction to Data Science|
-| week_2   | |
-| week_3   | |
+| week_2   | Python Containers (List, Set, Tuple, Dictionaries)|
+| week_3   | Numpy, Pandas, SQLite|
 | week_4   |  |
 | week_5  |  |
 | week_6   |   |
