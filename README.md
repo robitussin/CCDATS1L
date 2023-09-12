@@ -9,8 +9,8 @@ Course Outline: https://believed-bongo-319.notion.site/CCDATS1L-c4307320d22c4382
 | week_1   | Introduction to Data Science|
 | week_2   | Python Containers (List, Set, Tuple, Dictionaries)|
 | week_3   | Numpy, Pandas, SQLite|
-| week_4   | Data Preprocessing and Wrangling Part 1: Cleaning Data |
-| week_5  | Data Preprocessing and Wrangling Part 2: Transforming and Merging Data, Discretization  |
+| week_4   | Data Preprocessing and Wrangling Part 1: Cleaning Data, Transforming and Merging Data |
+| week_5  | Data Preprocessing and Wrangling Part 2: Feature Scaling and Discretization  |
 | week_6   |   |
 | week_7-8   | |
 | week_9   | |
