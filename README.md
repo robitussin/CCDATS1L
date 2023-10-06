@@ -11,8 +11,8 @@ Course Outline: https://believed-bongo-319.notion.site/CCDATS1L-c4307320d22c4382
 | week_3   | Numpy, Pandas, SQLite|
 | week_4   | Data Preprocessing and Wrangling Part 1: Cleaning Data, Transforming and Merging Data |
 | week_5  | Data Preprocessing and Wrangling Part 2: Feature Scaling and Discretization  |
-| week_6   |   |
-| week_7-8   | |
+| week_6-7   |  Exploratory Data Analysis, Descriptive Statistics, Pivot Tables, Central Tendency|
+| week_8   | Data Visualization |
 | week_9   | |
 | week_10   |  |
 | week_11   | |
