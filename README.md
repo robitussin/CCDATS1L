@@ -13,7 +13,7 @@ Course Outline: https://believed-bongo-319.notion.site/CCDATS1L-c4307320d22c4382
 | week_5  | Data Preprocessing and Wrangling Part 2: Feature Scaling and Discretization  |
 | week_6-7   |  Exploratory Data Analysis, Descriptive Statistics, Pivot Tables, Central Tendency|
 | week_8   | Data Visualization |
-| week_9   | |
-| week_10   |  |
-| week_11   | |
-| week_12   |  |
+| week_9   | Inferential Statistics and Correlation|
+| week_10   | Test of Significance, Test of Difference and ANOVA |
+| week_11   | Linear Regression and Logistic Regression |
+| week_12   | Pipelining the complete Data Science process |
